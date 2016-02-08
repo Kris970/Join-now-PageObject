@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Registration">
+	<test name="Registration order">
+		<classes>
+			<class name="com.gl.joinnowpageobject.JoinNowTest">
+			</class>
+			<methods>
+				<include name = "testMobileError"/>
+				<include name = "testUsernameError"/>
+				<include name = "testEmailError"/>
+				
+			</methods>
+		</classes>
+
+	</test>
+</suite>	

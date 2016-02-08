@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Registration]">
+  <test name="Registration order">
+    <classes>
+      <class name="com.gl.joinnowpageobject.JoinNowTest">
+        <methods>
+          <include name="testMobileError"/>
+          <include name="testUsernameError"/>
+          <include name="testEmailError"/>
+        </methods>
+      </class> <!-- com.gl.joinnowpageobject.JoinNowTest -->
+    </classes>
+  </test> <!-- Registration order -->
+</suite> <!-- Failed suite [Registration] -->

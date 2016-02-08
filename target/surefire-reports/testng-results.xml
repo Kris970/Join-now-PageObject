@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Registration" duration-ms="78854" started-at="2016-02-08T22:06:42Z" finished-at="2016-02-08T22:08:01Z">
+    <groups>
+    </groups>
+    <test name="Registration order" duration-ms="78854" started-at="2016-02-08T22:06:42Z" finished-at="2016-02-08T22:08:01Z">
+      <class name="com.gl.joinnowpageobject.JoinNowTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.gl.joinnowpageobject.JoinNowTest@181a1bc]" name="init" is-config="true" duration-ms="18900" started-at="2016-02-09T00:06:42Z" finished-at="2016-02-09T00:07:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="JoinNow()[pri:0, instance:com.gl.joinnowpageobject.JoinNowTest@181a1bc]" name="JoinNow" is-config="true" duration-ms="22958" started-at="2016-02-09T00:07:01Z" finished-at="2016-02-09T00:07:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JoinNow -->
+        <test-method status="PASS" signature="testMobileError()[pri:0, instance:com.gl.joinnowpageobject.JoinNowTest@181a1bc]" name="testMobileError" duration-ms="6436" started-at="2016-02-09T00:07:24Z" finished-at="2016-02-09T00:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileError -->
+        <test-method status="PASS" signature="JoinNow()[pri:0, instance:com.gl.joinnowpageobject.JoinNowTest@181a1bc]" name="JoinNow" is-config="true" duration-ms="9134" started-at="2016-02-09T00:07:30Z" finished-at="2016-02-09T00:07:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JoinNow -->
+        <test-method status="PASS" signature="testUsernameError()[pri:0, instance:com.gl.joinnowpageobject.JoinNowTest@181a1bc]" name="testUsernameError" duration-ms="6100" started-at="2016-02-09T00:07:40Z" finished-at="2016-02-09T00:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsernameError -->
+        <test-method status="PASS" signature="JoinNow()[pri:0, instance:com.gl.joinnowpageobject.JoinNowTest@181a1bc]" name="JoinNow" is-config="true" duration-ms="9405" started-at="2016-02-09T00:07:46Z" finished-at="2016-02-09T00:07:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JoinNow -->
+        <test-method status="PASS" signature="testEmailError()[pri:0, instance:com.gl.joinnowpageobject.JoinNowTest@181a1bc]" name="testEmailError" duration-ms="5877" started-at="2016-02-09T00:07:55Z" finished-at="2016-02-09T00:08:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmailError -->
+      </class> <!-- com.gl.joinnowpageobject.JoinNowTest -->
+    </test> <!-- Registration order -->
+  </suite> <!-- Registration -->
+</testng-results>
